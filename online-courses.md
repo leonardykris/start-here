@@ -4,6 +4,7 @@ Most of the courses offered online are free and they're perfect for a self-paced
 Popular third party provider:
 
 - Codeacademy
+
 - Khan Academy
 - Treehouse
 - EdX

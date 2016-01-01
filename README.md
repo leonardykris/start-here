@@ -1,2 +1,6 @@
-# start-here
-Everything you have to know in taking the first step in computing. This is a repository of knowledge compiled from years of accumulated experience.
+# Start Here
+Everything you have to know when you start your degree in computing.
+
+## Index
+
+1.
