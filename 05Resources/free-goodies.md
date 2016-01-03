@@ -32,3 +32,5 @@ Being a student definitely has its perks. There are a lot of ~~hidden~~ treasure
 - Fetch (Mac Software): [http://fetchsoftworks.com/fetch/free](http://fetchsoftworks.com/fetch/free)
 - LucidChart (Drawing tool: graphs, database relations, etc.): [https://www.lucidchart.com/pages/usecase/education](https://www.lucidchart.com/pages/usecase/education)
 - Startup Care Package: [http://startups.paddle.com/](http://startups.paddle.com/)
+
+Back to [Home Page](../README.md)
