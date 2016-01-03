@@ -11,7 +11,9 @@ Popular third party provider:
 
 Popular MOOCs:
 
-- Harvard's CS50 https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
-- Stanford's CS101 https://lagunita.stanford.edu/courses/Engineering/CS101/Summer2014/about
-- Stanford's Machine Learning - Andrew Ng https://class.coursera.org/ml-005/lecture
-- John Hopkins's Exploratory Data Analysis https://www.coursera.org/learn/exploratory-data-analysis
+- [Harvard's CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+- [Stanford's CS101](https://lagunita.stanford.edu/courses/Engineering/CS101/Summer2014/about)
+- [Stanford's Machine Learning - Andrew Ng](https://class.coursera.org/ml-005/lecture)
+- [John Hopkins's Exploratory Data Analysis](https://www.coursera.org/learn/exploratory-data-analysis)
+
+Back to [Home Page](../README.md)
