@@ -10,11 +10,11 @@ First, let's establish one thing:
 
 We're trying to accomodate the widest categories of people based on their objectives and goals, so we introduce the tracks system where we segregate the recommendations of what people should learn to get to their destination in the most efficient way or spend their time the most productive way.
 
-1. Learn
-2. Build
-3. Compete
-4. Job/Opportunities
-5. Resources
+1. [Learn](01Learn)
+2. [Build](02Build)
+3. [Compete](03Compete)
+4. [Job/Opportunities](04Opportunities)
+5. [Resources](05Resources)
 
 ## Learn
 
