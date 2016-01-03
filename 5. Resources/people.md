@@ -1,4 +1,4 @@
-#People
+# People
 List of interesting people/pages to follow:
 
 - Paul Graham

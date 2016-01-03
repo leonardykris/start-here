@@ -14,6 +14,7 @@ We're trying to accomodate the widest categories of people based on their object
 2. Build
 3. Compete
 4. Job/Opportunities
+5. Resources
 
 ## Learn
 
