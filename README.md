@@ -1,3 +1,5 @@
+![start here banner](https://github.com/leonardykris/start-here/blob/master/start-here.png "Start Here")
+
 # Start Here
 
 Hello there!
