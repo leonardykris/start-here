@@ -5,3 +5,5 @@ List of interesting people/pages to follow:
 - Sam Altman
 - Julie Zhuo
 - Eric Ries
+
+Back to [Home Page](../README.md)
