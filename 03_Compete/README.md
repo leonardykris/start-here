@@ -8,7 +8,7 @@ Why not trying going for a competition? Incidentally, it's also the best way to 
 - *How much do they know that I don't?*
 - *Is my algorithm the best solution out there?*
 
-It's also a place where you can test that burning idea you've had in mind for a while. In the programming/computing scene, there are few kinds of competitions that's available but they're mostly grouped up to these categories:
+Competition is also a place where you can test that burning idea you've had in mind for a while. In the programming/computing scene, there are few kinds of competitions that's available but they're mostly grouped up to these categories:
 
 1. Mastery of a specific skill/concept (mostly for individuals)
 	- Competitive Programming
@@ -39,6 +39,13 @@ Most hackathons are one-time event although some are organized annually in partn
 - [UN Women: United We Hack](http://unitedwehack.com/)
 - [Budweiser's Dream Brewery Hackathon](http://singapore.impacthub.net/dream-brewery-hackathon)
 
-Most of hackathon projects are submitted to a platform where it can be evaluated by panel of judges, this include [Hackathon.io](http://hackathon.io) (mostly for AngelHack related events) or [Devpost](http://devpost.com/). You can check an example of a judged project [here](http://www.hackathon.io/moneyremaid).
+Most of hackathon projects are submitted to a platform where it can be evaluated by panel of judges, this include [Hackathon.io](http://hackathon.io) (mostly for AngelHack related events) or [Devpost](http://devpost.com/). You can check an example of a judged project [here](http://www.hackathon.io/moneyremaid). Attending hackathon is a great activity that enables you to meet people from various fields. They're often segregated into general roles like:
+
+- Back End Developer
+- Front End Developer
+- Business Developer
+- Designer
+
+Each of these roles have different responsibilities.
 
 Back to [Home Page](../README.md)
