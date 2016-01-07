@@ -11,6 +11,7 @@
 
 - [Things I Wish Someone Had Told Me When I Was Learning How to Code](https://medium.com/@cecilycarver/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329#.10mtkfps7)
 - [What are the things should I know before I start learning programming?](https://www.quora.com/What-are-the-things-should-I-know-before-I-start-learning-programming)
+- [What is Programming?](https://www.khanacademy.org/computing/computer-programming/programming/intro-to-programming/v/programming-intro)
 
 ## Communities
 
@@ -21,9 +22,25 @@ It's always great to learn together with other people. Think of it as your suppo
 - [HH Design](https://www.facebook.com/groups/designxtech/)
 - [HH Websites and Resumes](https://www.facebook.com/groups/1487708811477672/)
 - [codebuddiesmeet](http://codebuddiesmeet.herokuapp.com)
-- [Stack Overflow]()
-- [Dribbble]()
-- [Behance]()
+- [GitHub](https://github.com)
+- [Dribbble](https://dribbble.com)
+- [Behance](https://behance.com)
+
+## Reading Digest
+
+### Books
+
+- [Cracking the Coding Interview](http://www.eenadupratibha.net/Engineering-Colleges/Engineering-Jobs/Documents/crackingthecodinginterview.pdf)
+
+  https://www.quora.com/topic/Cracking-the-Coding-Interview-1
+ 
+- [Design Patterns]()
+
+### Platforms
+
+- [Stack Overflow](https://stackoverflow.com)
+- [Medium](https://medium.com)
+- [Quora](https://quora.com)
 
 ## Massive Open Online Courses (MOOC)
 
@@ -38,11 +55,13 @@ Most of the courses offered online are free and they're perfect for a self-paced
 - [Udemy](https://udemy.com)
 - [Coursera](https://www.coursera.org/)
 
+
 ### Popular subjects:
 
 - [Harvard's CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 - [Stanford's CS101](https://lagunita.stanford.edu/courses/Engineering/CS101/Summer2014/about)
 - [Stanford's Machine Learning - Andrew Ng](https://class.coursera.org/ml-005/lecture)
 - [John Hopkins's Exploratory Data Analysis](https://www.coursera.org/learn/exploratory-data-analysis)
+
 
 Back to [Home Page](../README.md)
