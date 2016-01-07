@@ -1,6 +1,6 @@
 # 3. Compete
 
-### Now that you have [learned something](  ) and maybe [built some cool things](  ) along the way, what's next then?
+### Now that you have [learned something](../01_Learn/README.md) and maybe [built some cool things](../02_Build/README.md) along the way, what's next then?
 
 Why not trying going for a competition? Incidentally, it's also the best way to find out your current point of learning and seek out teams, rivals and mentors alike. By competing, you gain a sense of how capable the people in your playing field are and establish your standing. For example, questions below can only be answered through competitions:
 
@@ -23,6 +23,7 @@ Competition is also a place where you can test that burning idea you've had in m
 Useful Platform(s):
 
 - [Hacker Rank](https://www.hackerrank.com/)
+- [TopCoder](https://www.topcoder.com/)
 
 ## Hackathons
 
