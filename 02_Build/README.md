@@ -47,4 +47,15 @@
 
 - Raspberry Pi
 
+## Deployment
+
+### Platform as a Service
+
+- Parse
+- Firebase
+- Microsoft Azure
+- Openshift
+- IBM Bluemix
+- Heroku
+
 Back to [Home Page](../README.md)
