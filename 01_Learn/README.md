@@ -33,8 +33,10 @@ It's always great to learn together with other people. Think of it as your suppo
 - [Cracking the Coding Interview](http://www.eenadupratibha.net/Engineering-Colleges/Engineering-Jobs/Documents/crackingthecodinginterview.pdf)
 
   https://www.quora.com/topic/Cracking-the-Coding-Interview-1
- 
+
 - [Design Patterns]()
+
+http://stackoverflow.com/a/1713
 
 ### Platforms
 
