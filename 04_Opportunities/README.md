@@ -10,17 +10,19 @@ It's your professional profile and a hiring platform at the same time. You can c
 
 ## Review
 
-It's really important to check for reviews on places that you've worked before. Glassdoor is a nice place for this, but most of the times your school will already have a network containing all these information. Contact your department or alumni.
+It's really important to check for reviews on places that you've worked before. [Glassdoor](https://glassdoor.com) is a nice place for this, but most of the times your school will already have a network containing all these information. Contact your department or alumni.
 
 ## Part time/Freelancing
 
-It's actually recommended to take projects only from people you know, and take note that a freelance project is a full-time project, it's just that you're taking with limited contract (or sometime no contract, when this happen, please do make a written contract with your client/your project takers).
+The general rule of thumb is to take projects only from people you know personally. And despite its name, freelancing is a full-time job with limited contract (or sometime no contract, when this happen, please do make a written contract with your client/your project takers to protect both parties). You should always charge by milestones.
 
 ## Internships
 
-Try watching out for internships months before they open because for popular positions with top companies, applications open months before the batch started (e.g. Google Software Engineering Internship application for Winter 2016 opens in Winter 2015, meaning that you have to watch it out a year before). Most internships are either in Summer/Winter.
+Internship is typically defined as onsite job training. For top companies like Google, Apple or Facebook, you usually have to watch out for their internship applications for more than 6 months (e.g. Google Software Engineering Internship application for Winter 2016 opens in Winter 2015). Most internships are either in Summer/Winter.
 
 ## Full time
+
+### Important: Make sure to obtain all the necessary work visa and documents before working in your destination country
 
 
 Back to [Home Page](../README.md)
