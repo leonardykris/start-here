@@ -34,9 +34,17 @@ It's always great to learn together with other people. Think of it as your suppo
 
   https://www.quora.com/topic/Cracking-the-Coding-Interview-1
 
-- [Design Patterns]()
+- [Design Patterns](http://www.amazon.com/gp/product/0201633612/)
 
 http://stackoverflow.com/a/1713
+
+- [The Pragmatic Programmer]()
+
+- [Coders at Work]()
+
+- [Programming Pearls]()
+
+- [Clean Code]()
 
 ### Platforms
 
