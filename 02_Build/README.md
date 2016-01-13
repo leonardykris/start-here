@@ -11,6 +11,7 @@
 
 - Laravel (PHP)
 - Rails (Ruby)
+- Django (Python)
 - Flask (Python)
 
 ### Client Side Framework

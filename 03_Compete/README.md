@@ -33,19 +33,19 @@ To put it simply, a hackathon is an event where you gather a bunch of people who
 
 Most hackathons are one-time event although some are organized annually in partnership with a certain organizations/companies. List of popular hackathons that have happened in Malaysia/Singapore involving big names includes:
 
-- [MasterCard Masters of Code](http://mastersofcode.com)
-- [Emirates Travel Hackathon](http://www.emirateshackathon.com/)
+- [MasterCard Masters of Code](https://mastersofcode.com)
+- [Emirates Travel Hackathon](https://www.emirateshackathon.com/)
 - [PayPal BattleHack](https://2015.battlehack.org/)
-- [AngelHack Global Series](http://angelh.wpengine.com/previous-hackathons/)
-- [UN Women: United We Hack](http://unitedwehack.com/)
-- [Budweiser's Dream Brewery Hackathon](http://singapore.impacthub.net/dream-brewery-hackathon)
+- [AngelHack Global Series](https://angelh.wpengine.com/previous-hackathons/)
+- [UN Women: United We Hack](https://unitedwehack.com/)
+- [Budweiser's Dream Brewery Hackathon](https://singapore.impacthub.net/dream-brewery-hackathon)
 
 Most of hackathon projects are submitted to a platform where it can be evaluated by panel of judges, this include [Hackathon.io](http://hackathon.io) (mostly for AngelHack related events) or [Devpost](http://devpost.com/). You can check an example of a judged project [here](http://www.hackathon.io/moneyremaid). Attending hackathon is a great activity that enables you to meet people from various fields. They're often segregated into general roles like:
 
-- Back End Developer
-- Front End Developer
+- Back-End Developer
+- Front-End Developer
 - Business Developer
-- Designer
+- UX/UI Designer
 
 Each of these roles have different responsibilities.
 
