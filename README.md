@@ -17,3 +17,10 @@ To accomodate the widest categories of people, we splitted the core information 
 3. [Compete](03_Compete)
 4. [Job/Opportunities](04_Opportunities)
 5. [Resources](05_Resources)
+
+### Contributors:
+[@leonardykris](https:/github.com/leonardykris)
+[@imjching](https:/github.com/imjching)
+[@DJNgoma](https:/github.com/DJNgoma)
+[@jamesssooi](https:/github.com/jamesssooi)
+[@abrahamks](https:/github.com/abrahamks)
