@@ -7,6 +7,10 @@
 
 > "I was expecting the knowledge to be brought to me and the techniques to be handed to me on a silver platter as the case is in school. I was mistaken. Learning to code is about learning to search for the correct info, methods, techniques thanks only to our friend, Google. Coding is about learning how to learn." <br>([3 Reasons Why You Should Absolutely Learn to Code](https://medium.com/the-coffeelicious/3-reasons-why-you-should-absolutely-learn-to-code-8c524dac8120#.nkzoow9dr))
 
+### Typing speed
+
+It might be great to improve your typing speed too. If you haven't been typing with all 10 of your fingers, you should training for it because it will improves your typing speed immensely. After you're comfortable with it, try benchmarking your speed at [10 Fast Fingers](http://10fastfingers.com/typing-test/english). [@leonardykris](https://github.com/leonardykris) has an average of 85-90 words per minute.
+
 ### Good articles to read before you start
 
 - [Things I Wish Someone Had Told Me When I Was Learning How to Code](https://medium.com/@cecilycarver/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329#.10mtkfps7)
