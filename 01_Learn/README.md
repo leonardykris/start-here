@@ -29,6 +29,7 @@ It's always great to learn together with other people. Think of it as your suppo
 - [GitHub](https://github.com)
 - [Dribbble](https://dribbble.com)
 - [Behance](https://behance.com)
+- [Envato Tuts](http://code.tutsplus.com/)
 
 ## Reading Digest
 
