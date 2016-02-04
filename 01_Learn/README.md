@@ -33,6 +33,12 @@ It's always great to learn together with other people. Think of it as your suppo
 
 ## Reading Digest
 
+### Basic Computer Science
+
+- [Open Source Society University](https://github.com/open-source-society/computer-science) Path to a free self-taught education in Computer Science!
+- [Computer Science Field Guide](http://www.csfieldguide.org.nz/) is an online interactive resource for high school students learning about computer science, developed at the University of Canterbury in New Zealand.
+- [The Open-Source Computer Science Degree](https://github.com/mvillaloboz/open-source-cs-degree) outlines free online courses from top schools like Harvard, Stanford and MIT.
+
 ### Books
 
 - [Cracking the Coding Interview](http://www.eenadupratibha.net/Engineering-Colleges/Engineering-Jobs/Documents/crackingthecodinginterview.pdf)
