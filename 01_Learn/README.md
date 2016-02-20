@@ -1,7 +1,8 @@
 #1. Learn
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=dU1xS07N-FA" target="_blank"><img src="http://img.youtube.com/vi/dU1xS07N-FA/0.jpg" alt="Code Stars - Code.org" width="100%" height="" border="10" /></a>
-<small><i>Code Stars - Code.org (Click the above image)</i></small>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=dU1xS07N-FA" target="_blank"><img src="http://img.youtube.com/vi/dU1xS07N-FA/0.jpg" alt="Code Stars - Code.org" width="480" height="" border="10" /></a>
+
+<small><i>Watch: Code Stars - Code.org (Click the above image)</i></small>
 
 ### "The programmers of tomorrow are the wizards of the future. You're going to look like you have magic powers compared to everybody else." - [Gabe Newell](https://code.org/quotes) ([Valve](http://www.valvesoftware.com/))
 
